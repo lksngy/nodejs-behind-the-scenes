@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-behind-the-scenes",
+  "version": "1.0.0",
+  "description": "code snippets from udemy course https://www.udemy.com/course/understand-nodejs/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lksngy/nodejs-behind-the-scenes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lksngy/nodejs-behind-the-scenes/issues"
+  },
+  "homepage": "https://github.com/lksngy/nodejs-behind-the-scenes#readme"
+}
